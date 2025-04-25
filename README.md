@@ -21,11 +21,11 @@ This is a lightweight Databricks App which exposese the capabilities of UC Metri
 1. Create a Power BI Report with basic measures like Sum , Min , Max , Average over a single Unity Catalog Table
 2. Deploy the report in Power BI Service
 3. Create a table in Databricks Unity Catalog . The table should have with three columns ( Id string , DAX string , Measure string )
-   
-5. 
-6. Clone the Repository (if you haven't already)
-7. Generate a PAT token in Databricks 
-8. In the App.py , please enter your DBSQL connection string :  Host Name , Http Path . Also enter you PAT token for token variable
-9. Deploy the App
-10. 
+ <img src="(Images/create_table.png)" alt="Databricks SQL Warehouse connection details" width="50%" height="50%">  
+4. 
+5. Clone the Repository (if you haven't already)
+6. Generate a PAT token in Databricks 
+7. In the App.py , please enter your DBSQL connection string :  Host Name , Http Path . Also enter you PAT token for token variable
+8. Deploy the App
+9. 
 
