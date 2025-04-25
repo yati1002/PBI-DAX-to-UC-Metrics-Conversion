@@ -1,0 +1,5 @@
+streamlit==1.38.0
+pyspark==3.5.5
+pandas
+pyyaml
+databricks-sql-connector
