@@ -30,7 +30,7 @@ This is a lightweight Databricks App which exposese the capabilities of UC Metri
 5. Clone the Repository (if you haven't already)
 6. Generate a PAT token in Databricks 
 7. In the App.py , please enter your DBSQL connection string :  Host Name , Http Path . Also enter you PAT token for token variable
-8. Deploy the App
+8. Create a Template Hello DB App and replace default App.py code and requirement.txt with files from repo.
 9. In the app give the Catalog , Schema and Table Name of the table which has your DAX measure . Click Submit
 
 ![Partitioned table](images/dax_table.png)
